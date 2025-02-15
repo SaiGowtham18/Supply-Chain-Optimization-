@@ -6,7 +6,6 @@ This project focuses on analyzing and optimizing supply chain operations using r
 ## 🎯 Project Goals
 - Develop an end-to-end **ETL pipeline** to process supply chain data.
 - Store and manage transformed data efficiently using **Snowflake**.
-- Automate data ingestion and transformations using **Apache Airflow**.
 - Create interactive **Power BI dashboards** to visualize key supply chain metrics.
 - Provide actionable insights to improve inventory management, supplier performance, and logistics optimization.
 
